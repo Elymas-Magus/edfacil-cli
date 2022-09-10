@@ -7,7 +7,7 @@
  */
 
 import React from 'react';
-import Layout from '@layout/BaseApp';
+import Layout from '@layout';
 
 const App = () => {
   return (
