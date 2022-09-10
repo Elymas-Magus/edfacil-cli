@@ -1,4 +1,11 @@
 import styles from './styles';
+import { Colors } from 'react-native/Libraries/NewAppScreen';
+import {
+  Text,
+  useColorScheme,
+  View,
+} from 'react-native';
+
 
 const Section = ({ children, title }) => {
     const isDarkMode = useColorScheme() === 'dark';

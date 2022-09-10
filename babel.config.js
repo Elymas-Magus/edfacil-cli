@@ -8,7 +8,8 @@ module.exports = {
           '@app': './src',
           '@components': './src/components',
           '@services': './src/services',
-          '@utilities': './src/utilities'
+          '@utilities': './src/utilities',
+          '@layout': './src/layout'
         }
       }
     ]
